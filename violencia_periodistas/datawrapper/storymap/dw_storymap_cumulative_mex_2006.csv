@@ -1,0 +1,33 @@
+dw_key,dw_estado,acum_ataques,acum_desaparecidos,acum_muertos
+MX-SLP,San Luis Potosi,0,0,0
+MX-HID,Hidalgo,0,0,0
+MX-YUC,Yucatán,0,0,0
+MX-CHH,Chihuahua,6,0,6
+MX-ROO,Quintana Roo,0,0,0
+MX-JAL,Jalisco,3,0,3
+MX-BCS,Baja California Sur,1,0,1
+MX-CAM,Campeche,0,0,0
+MX-COL,Colima,0,0,0
+MX-NAY,Nayarit,0,0,0
+MX-SON,Sonora,2,1,1
+MX-COA,Coahuila,2,1,1
+MX-OAX,Oaxaca,2,0,2
+MX-VER,Veracruz,8,2,7
+MX-CHP,Chiapas,2,0,2
+MX-MIC,Michoacán,2,1,2
+MX-SIN,Sinaloa,2,0,2
+MX-AGU,Aguascalientes,0,0,0
+MX-TLA,Tlaxcala,0,0,0
+MX-MOR,Morelos,4,0,4
+MX-TAB,Tabasco,0,0,0
+MX-DUR,Durango,2,0,2
+MX-NLE,Nuevo León,0,0,0
+MX-GRO,Guerrero,5,1,4
+MX-GUA,Guanajuato,0,0,0
+MX-CMX,Ciudad de México,8,0,9
+MX-QUE,Querétaro,0,0,0
+MX-PUE,Puebla,0,0,0
+MX-TAM,Tamaulipas,11,0,11
+MX-BCN,Baja California,2,0,2
+MX-MEX,Estado de México,2,0,2
+MX-ZAC,Zacatecas,0,0,0
